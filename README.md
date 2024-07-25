@@ -1,0 +1,1 @@
+This is a simple ROCK_PAPER_SCISSORS game with HTML,CSS,JAVASCRIPT.
